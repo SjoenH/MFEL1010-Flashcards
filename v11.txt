@@ -1,0 +1,275 @@
+
+Q:	En pasient har en hematokrit på 0,45. Hva betyr det? / En pasient har en hematokrit på 0,45. Kva betyr det? / A patient has a hematocrit of 0.45. What does that mean?
+
+A:	At 45% av blodvolumet er erythrocytter / At 45% av blodvolumet er erythrocyttar / That 45% of the blood volume is erythrocytes
+
+
+Q:	HIV infeksjon reduserer immuniteten fordi den angriper og ødelegger en viss type hvite blodlegemer. Hvilken gruppe hører de cellene til? / HIV infeksjon reduserer immuniteten fordi den angriper og øydelegg en viss type kvite blodlekam. Kva for gruppe høyrer dei cellene til? / HIV infection reduces immunity because it attacks and destroys a certain type white blood cells. Which group do those cells belong to?
+
+A:	T-lymfocytter / T-lymphocytes
+
+
+Q:	Hva er den viktigste regulator for hjerteaksjonen i hvile? / Kva er den viktigaste regulatoren for hjerteaksjonen i kvile? / What is the most important regulator for the heart action at rest?
+
+A:	Blodtrykket / The blood pressure
+
+
+Q:	Koagulasjon skjer ved at spesialiserte proteiner i plasma; koagulasjonsfaktorer reagerer i en kaskadereaksjon. Hva er sluttproduktet; selve hovedbestanddelen i et koagel? / Koagulasjon skjer ved at spesialiserte protein i plasma; koagulasjonsfaktorar reagerer i en kaskadereaksjon. Kva er sluttproduktet; sjølve hovudbestanddelen i et koagel? / The coagulation process happens as specialised proteins in plasma; coagulation factors reacts in a cascade reaction. What is the end product of this reaction; the main ingredient in a clot?
+
+A:	Fibrin
+
+
+Q:	Hva er korrekt om eksitasjons-kontraksjonskoplingen? / Kva er korrekt om eksitasjons-kontraksjonskoplinga? / What is correct about exitation contraction coupling?
+
+A:	Aksjonspotensialet gir frigjøring av Ca++ intracellulært som binder seg til troponin / Aksjonspotensialet gir frigjøring av Ca++ intracellulært som binder seg til troponin / The action potential causes intracellular release of Ca++, which binds to troponin.
+
+
+Q:	Hva er knoklene i leddflatene kledd med? / Kva er knoklane i leddflatene kledd med? / What are the bones in the joint surfaces covered with?
+
+A:	Brusk / Cartilage
+
+
+Q:	Hva er de viktigste regulatorer for ventilasjonen under basalbetingelser? / Kva er dei viktigaste regulatorane for ventilasjonen ved basalbetingelser? / What is the main regulators of ventilation during basal conditions?
+
+A:	CO2 + pH
+
+
+Q:	Hvordan aktiveres hjertemuskelen til å kontrahere? / Korleis blir hjertemuskelen aktivert til å kontrahere / How is the heart muscel activated to contract?
+
+A:	Hjertet har egne muskelceller som generer aksjonspotensialer, som deretter brer seg utover hjertemuskelen direkte fra muskelcelle til muskelcelle / Hjertet har egne muskelceller som generer aksjonspotensial, som deretter brer seg utover hjertemuskelen direkte frå muskelcelle til muskelcelle / The heart has specialised muscle cells that generate action potentials, which then propagate in the heart directly from muscle cell to muscle cell
+
+
+Q:	Hva er peristaltikk / Kva er peristaltikk / What is peristalsis?
+
+A:	Kontraksjonsbølger i glatt muskulatur i tarmsystemet for å trykke innholdet framover. / Kontraksjonsbølgjer i glatt muskulatur i tarmsystemet for å trykke innhaldet framover. / Contraction waves in the intestinal system to push the contents forwards
+
+
+Q:	Omtrent hvor stor andel av vannmengden som skilles ut i glomeruli blir igjen i den ferdige urinen? / Omtrent kor stor del av vassmengda som blir skilt ut glomeruli blir igjen i den ferdige urinen? / About how large part of the water that is excreted in the glomeruli remains as urinein the finished product?
+
+A:	Ca 1%
+
+
+Q:	Hva gjør natrium-kalium-utvekslingspumpen? Kva gjer natrium-kaliumvekselspumpa. / What is the function of the sodium-potassium pump?
+
+A:	Bygger opp membranpotensialet gjennom aktiv transport av natrium og kalium fra lav til høy konsentrasjon. / Bygg opp membranpotensialet gjennom aktiv transport av natrium og kalium frå låg til høg konsentrasjon. / Building up the membrane potential, by active transport of Sodium and Potassium from low to high concentration.
+
+
+Q:	Når en celle deler seg i en vanlig mitose, fordobles arvematerialet. Dette kalles: / Når ein celle deler seg I en vanlig mitose, fordobles arvematerialet. Dette blir kalla: / When a cell divides in an ordinary mitosis, doubles the genetic material. This is called:
+
+A:	Replikasjon / Replication
+
+
+Q:	I en nødssituasjon, blodlegemer fra hvilken blodgruppe i kan gis til alle pasienter uansett mottakers blodgruppe? / I ein naudssituasjon, blodlekam frå kva for blodgruppe AB0 – systemet kan gis till alle pasientar uansett mottakars blodgruppe? / In an emergency, blood cells from what group in the AB0 system can be given to any patient irrespectively of the recipient’s blood goup?
+
+A:	0
+
+
+Q:	Hvis et infarkt rammer sinusknuten vil hjertets rytme ikke lenger styres av den normale pacemakeren. Hvilken del av ledningssystemet vil da som regel ta over? / Dersom eit infarkt rammer sinusknuten vil hjertets rytme ikkje lengre bli styrt av den normale pacemakeren. Kva for del av leidningssystemet vil da som regel ta over? / If the sinus node is infarcted, the rythm of the heart will no longer be regulated by the normal pacemaker. What part of the conduction system will take over?
+
+A:	AV – knuten / The AV node
+
+
+Q:	Hvordan er trykket i pleuralhulen under inspirasjon? /Korleis er trykket i pleuralhulen under inspirasjon? / What is the pressure in the pleural cavity during inspiration?
+
+A:	Lavere enn atmosfæretrykket / Lågere enn atmosfæretrykket / Lower than the atmospheric pressure
+
+
+Q:	Hvor produseres antidiuretisk hormon? / Kor blir antidiuretisk hormon produsert / Where is antidiuretic hormone produced?
+
+A:	Hypofysen / The pituitary
+
+
+Q:	Ved diabeteskoma kan blodets pH bli nedsatt på grunn av ketondannelse. Hva slags syrebase forstyrrelse er dette? / Ved diabeteskoma kan blodets pH bli nedsett på grunn av ketondannelse. Kva slag syre-base forstyrring er dette? / In a diabetic coma the pH in the blood is decreased due to increased production of ketones. What kind of acid-base disturbance is this?
+
+A:	Metabolsk acidose / Metabolic acidosis
+
+
+Q:	Aortaklaffen kan som følge av sykdom bli trang (aortastenose). Dette gir en motstand mot blodstrømmen, og dermed en bilyd. Når i EKG syklus høres denne bilyden? / Aortaklaffen kan som følgje av sjukdom bli trong (aortastenose). Dette gir ein motstand mot blodstraumen, og dermed ein bilyd. Når i EKG syklus høres denne bilyden? / Disease can cause the aortic valve to become narrow (aortic stenosis.) This will give a resistance against the blood stream, and thus, a murmur. When during the ECG cycle will this murmur be heard?
+
+A:	I QT-intervallet / During the QRS interval
+
+
+Q:	Reabsorbsjon av vann fra ultrafiltratet skjer både i proximale og i distale tubuli og samlerør. Hvilken prosess er hovedansvarlig? / Reabsorbsjon av vann frå ultrafiltratet skjer både i proximale og i distale tubuli og samlerøyr. Kva for prosess er hovudansvarlig? / Re absorbtion of water takes place both in the proximal and distal tubules and collecting ducts. What process is mainly responsible?
+
+A:	Osmose / Osmosis
+
+
+Q:	Hva slags muskelkontraksjon brukes når en senker en vekt langsomt ned mot gulvet? / Kva slag muskelkontraksjon blir brukt når ein senker ein vekt langsomt ned mot golvet? / What kind of muscle contraction is used when an object is lowered slowly to the floor?
+
+A:	Eksentrisk / Eccentric
+
+
+Q:	Hva er elektrontransportkjeden? / Kva er elektrontransport kjeda? / What is the electron transport chain?
+
+A:	Elektroner transporteres langs indre motochondriemembran for å produsere ATP / Elektron blir transportert langs indre motochondriemembran for å produsere ATP / Electrons are transported along inner mitochondria membrane in order to generate ATP
+
+
+Q:	Hva kalles muskler som beveger et ledd i to motsatte retninger? / Kva kallast musklar som beveger eit ledd i to motsette retningar? / What do you call muscles that move a joint in two opposite directions?
+
+A:	Antagonister / Antagonistar / Antagonists
+
+
+Q:	Ved et hjerteinfarkt kan det dannes en blodpropp inne i venstre hjertekammer, som så kan løsne og føres med blodstrømmen. Hvor vil den kunne havne? / Ved eit hjerteinfarkt kan det dannes en blodpropp inne i venstre hjertekammer, som så kan lausne og føres med blodstraumen. Kor vil den kunne ende? / In a myocardial infarction, a thrombus may be formed inside the left ventricle. It can detach and follow the bloodstream. Where may it end?
+
+A:	Hjernen / The brain
+
+
+Q:	Hvilke klaffer er begge åpne under atriekontraksjon? / Kva for klaffar er begge opne under atriekontraksjon? / Which valves are both open during atrial contraction?
+
+A:	Bicuspidal- (mitral-) og tricuspidalklaffen / The bicuspid and tricuspid valves
+
+
+Q:	Partialtrykket av oksygen i lufta reduseres med høyden. Hvis partialtrykket er redusert med ca 50 %, hvor mye reduserer dette O2 metningen i blodet? / Partialtrykket av oksygen i lufta blir redusert med høgda. Viss partialtrykket er redusert med ca 50%, kor mykje reduserer dette O2 mettinga i blodet? / The partial pressure of oxygen in the airdecreases with altitude. If the partial pressure is reduced by 50%, how much will this reduce the oxygen saturation of blood?
+
+A:	Ca 25%
+
+
+Q:	Både ved lever- og galleveissykdommer blir avløpet av galle til tarmen hindret. Dette fører til opphopning av et stoff gir gul hudfarge (gulsott). Hvilket stoff? / Både ved lever- og gallevegssjukdomar blir avløpet av galle til tarmen hindra. Dette fører til opphoping av et stoff gir gul hudfarge (gulsott). Kva for stoff? / Both in liver- and bile duct disease is the drainage of bile to the intestine hindered. This leads to accumulation of a substance that gives yellow skin (jaundice). Which substance?
+
+A:	Bilirubin
+
+
+Q:	Hva er de viktigste sekretene for nedbryting av karbohydrat i tarmen? / Kva er de viktigaste sekreta for nedbryting av karbohydrat i tarmen? / What are the most important seretions for digestion of carbohydrate in the intestine?
+
+A:	Amylase og disakkaridase / Amylase and disaccharidase
+
+
+Q:	Allerede lukten og smaken av mat kan stimulere deler av magesekken til å produsere gastrin. Hva er hovedeffekten av gastrin? / Allereie lukta og smaken av mat kan stimulere deler av magesekken til å produsere gastrin. Kva er hovudeffekten av gastrin? / Already the smell and taste of food can stimulate parts of the stomach to secrete gastrin. What is the function of gastrin?
+
+A:	Stimulerer produksjonen av saltsyre / Stimulates the production of hydrochloric acid
+
+
+Q:	Volumet av urin reguleres av antidiuretisk hormon i forhold til behovet for utskillelse av vann. Hvordan skjer denne reguleringen? / Volumet av urin blir regulert i forhold til behovet for utskilling. Korleis skjer denne reguleringa? / In re absorbtion of water, the volume of urine is regulated by anti diuretic hormone in proportion to the need for excretion of water. How is this regulated?
+
+A:	ADH reduserer permeabilitenten for vann av distale tubuli og samlerør, og blokkerer derved en del av reabsorbsjonen av vann / ADH reduces the permeability for water of the distal tubuli and collecting ducts, thus blocking part of the reabsorbtion of water.
+
+
+Q:	Hvorfor trenger de fleste friske mennesker lesebriller når man blir eldre? / Kvifor treng dei fleste friske menneske lesebriller når en blir eldre? / Why do most healthy people need reading glasses when they get older?
+
+A:	Fordi linsen blir stivere med alderen, slik at den ikke kan øke brytningen ved nærinnstilling / Fordi linsa blir stivare med alderen, slik at den ikkje kan auke brytinga ved nærinnstilling / Because the lens get stiffer with age, so it can no longer increase refraction in accommodation
+
+
+Q:	Ved en form for thyreotoxicose (høyt stoffskifte) opptrer et antistoff mot TSH reseptorer i skjoldkjertelen som stimulerer reseptorene i stedet for å blokkere eller ødelegge dem. Hva skjer da med nivåene av TSH og thyroxin? / Ved ein form for thyreotoxicose (høgt stoffskifte) opptrer et antistoff mot TSH reseptorar i skjoldkjertelen som stimulerer reseptorane i staden for å blokkere eller øydelegge dei. Kva skjer då med nivåa av TSH og thyroxin? / In one kind of hyperthyroidism, there is present an antibody against TSH receptors that stimulates TSH receptors in the thyroid instead of blocking or destroying them. What happens then to the levels of Thyroxin and TSH?
+
+A:	Thyroxin↑, TSH↓
+
+
+Q:	Krebs syklus er en biokjemisk kjedereaksjon som er grunnlaget for det meste av energiproduksjonen. Hvor i cellen foregår denne prosessen? / Krebs syklus er en biokjemisk kjedereaksjon som er grunnlaget for det meiste av energiproduksjonen. Kor i cellen går denne prosessen føre seg? / Krebs’ cycle is a biochemical process that is the basis for most of the energy production. Where in the cell does this process take place?
+
+A:	Mitokondriene / The mitochondria
+
+
+Q:	Hemolytisk sykdom hos et foster eller nyfødt skyldes rhesus blodtypesystemet. Hvilken kombinasjon av rhesusblodtyper må foreligge for at denne tilstanden skal oppstå? / Hemolytisk sjukdom hos et foster eller nyfødt skyldes rhesus blodtypesystemet. Kva for ein kombinasjon av rhesusblodtyper må vere til stades for at denne tilstanden skal oppstå? /Haemolytic disease of the newborn is due to the rhesus blood type system. Which combination of blood types has to exist to induce this disease?
+
+A:	Mor er rhesus negativ, barnet rhesus positivt / Mother is rhesus negative, child is rhesus positive
+
+
+Q:	Vi har flere typer muskelvev. Hvor finnes glatt muskelvev? / Vi har fleire typar muskelvev. Kor finns glatt muskelvev? / There are several types of muscle tissue. Where is smooth muscle located?
+
+A:	Konstriktiv muskulatur i hulorganer / Constrictive muscle in hollow organs
+
+
+Q:	Hvordan vil en metabolsk acidose vanligvis påvirke respirasjonen? / Korleis vil ein metabolsk acidose vanlegvis påverke respirasjonen? / How will a metabolic acidosis usually affect the respiration?
+
+A:	Økt respirasjon / Auka respirasjon /Increased respiration
+
+
+Q:	Hva er funksjonen til mellomgulvet / Kva er funksjonen til mellomgolvet? / What is the function of the diaphragmatic muscle?
+
+A:	Senke golvet i thorax så brysthulen utvider seg / Lower the thoracic floor, causing the thoracic cavity to expand.
+
+
+Q:	Hvilken gruppe næringsstoff tilhører triglycerider? / Kva for gruppe næringsstoff tilhører triglycerider? / What group of nutritients does triglycerides belong to?
+
+A:	Fett / Fats
+
+
+Q:	Ved kronisk nyresvikt blir pasienten ofte anemisk. Hvorfor? / Ved kronisk nyresvikt blir pasienten ofte anemisk. Kvifor? / In chronic renal insufficiency will the patient often become anaemic. Why?
+
+A:	Nyrene produserer mindre erythropoietin / The kidneys produces less erythropoietin
+
+
+Q:	Diabetes type 2 er en sykdom der den perifere sensitiviteten for insulin er redusert, og den gir dermed forhøyd blodsukker. Hva skjer med insulinnivået ved blodet ved ved starten av en typisk type 2 diabetes? / Diabetes type 2 er en sjukdom der den perifere sensitiviteten for insulin er redusert, og den gir dermed forhøgd blodsukker. Kva skjer med insulinnivået ved blodet ved starten av ein typisk type 2 diabetes? / Diabetes type 2 is a disease where the peripheral sensitivity of insulin is decreased, leading to elevated blood sugar. What happens to the level of insulin in the blood at the start of a typical type 2 diabetes?
+
+A:	Øker / Auker / Increases
+
+
+Q:	Hva er funksjonen til knoklene i mellomøret? / Kva er funksjonen til knoklane i mellomøret? / What is the function of the bones inthe middle ear?
+
+A:	Formidle mekaniske svingninger fra trommehinna til væsken (endolymfen) i sneglehuset / Formidle mekaniske svingingar frå trommehinna til væsken i sniglehuset / Transmit mechanical oscillations from the tympanic membrane to the fluid (endolymph) in the cochlea.
+
+
+Q:	Hvilke hormonforandringer skjer i puberteten? / Kva for hormonforandringar skjer i puberteten? / What hormonal changes take place in puberty?
+
+A:	Østrogen ↑, FSH↑ / Estrogen ↑, FSH↑
+
+
+Q:	Hva karakteriserer sirkulasjonssjokk? / Kva karakteriserer sirkulasjonssjokk? / What characterises circulatory shock?
+
+A:	Nedsatt blodtrykk og nedsatt sirkulasjon / Nedsett blodtrykk og nedsett sirkulasjon / Reduced blood pressure and reduced circulation
+
+
+Q:	Ejeksjonsfraksjonen er et mål for systolisk hjertefunksjon. En pasient har en venstre ventrikkel med et endediastolisk volum på 158 ml, endesystolisk volum på 73 ml. Hva er ejeksjonsfraksjonen?/ Ejeksjonsfraksjonen er eit mål for systolisk hjertefunksjon. Ein pasient har en venstre ventrikkel med et endediastolisk volum på 158 ml, endesystolisk volum på 73 ml. Kva er ejeksjonsfraksjonen? / The ejection fraction is a measure of ventricular function. A patient has a left ventricular end diastolic volume of 158 ml, an end systolic volume of 73 ml. What is the ejection fraction?
+
+A:	54%
+
+
+Q:	Hyperventilering (økt ventilasjon) kan skje som følge av for eksempel smerter eller stress. Hva skjer med blodets pH? / Hyperventilering (auka ventilasjon) kan skje som følgje av for eksempel smerter eller stress. Kva skjer med blodets pH? / Hyperventilation may happen as a result of pain or stress. What happens to the pH in the blood?
+
+A:	Øker /Auker / Increases
+
+
+Q:	Hva er funksjonen til gallesalter i tarmen? / Kva er funksjonen til gallesalt i tarmen? / What is the function of bile salts in the intestine?
+
+A:	Emulgere fett i mindre partikler i vannløsning / Emulgere fett i mindre partiklar i vantløysing / Emusify fats in smaller particles in watery solution
+
+
+Q:	Epidemiologi er studiet av: / Epidemiology is the study of:
+
+A:	Forekomst av sykdom i befolkninger / Førekomst av sjukdom i befolkningar / Occurrence of disease in populations
+
+
+Q:	Anabole steroider misbrukes av noen kroppsbyggere for å få store muskler. De virker ved å etterligne effekten til et naturlig forekommende hormon, hvilket? / Anabole steroider blir misbrukt av noen kroppsbyggarar for å få store musklar. De verker ved å etterlikne effekten til eit naturlig forekommande hormon, kva for eit? / Anabolic steroids are abused by some bodybuilders in order to acheve bigger muscles. They work by mimicing the effect of a natural hormone, which one?
+
+A:	Testosterone / / testosterone
+
+
+Q:	Hvilket kammer i hjertet har det høyeste (middel-) trykket? / Kva for kammer i hjertet har det høgaste (middel-) trykket? / What chamber in the heart has the highest (mean) pressure?
+
+A:	Venstre ventrikkel / Left ventricle
+
+
+Q:	Hva beskriver best aktiv transport over en cellemembran? / Kva beskriv best aktiv transport over ein cellemembran? / What describes best active transport over a cell membrane?
+
+A:	Forbruker ATP / Forbrukar ATP / Consumes ATP
+
+
+Q:	Hvilken av disse faktorene kan varieres for å variere dybdeoppløsningen i ultralyd? / Kva for av disse faktorane kan varierast for å variere dybdeoppløysingen i ultralyd? / Which of these factors can be changed to change the depth resolution in ultrasound?
+
+A:	Lydfrekvensen / Sound frequency
+
+
+Q:	Kroppsmasseindeks (BMI) er et mål for fedme (egentlig vekt justert for høyde: BMI = V / h2). Hva er den nedre BMI grensen for fedme? / Kroppsmasseindeks (BMI) er eit mål for fedme (eigentlig vekt justert for høgde: BMI = V / h2). Kva er den nedre BMI grensa for fedme? / Body mass index is a measure of obesity (actually it is the weight adjusted for height: BMI = Wt/Ht2). What is the lower BMI limit for obesity?
+
+A:	30 kg/m2
+
+
+Q:	Maksimalt oksygenopptak er et mål på den anaerobe kondisjonen (kalles ofte kondisjonstallet på norsk). Hva begrenser maksimalt oksygenopptak hos friske? / Maksimalt oksygenopptak er et mål på den anaerobe kondisjonen, (blir ofte kalla kondisjonstalet på norsk). Kva begrensar maksimalt oksygenopptak hos friske? / Maximum oxygen uptake is a measure of aerobic fitness. What limits the maximal oxygen uptake in healthy individuals?
+
+A:	Hjertets maksimale pumpekapasitet / The maximal pumping capacity of the heart
+
+
+Q:	Målet på risikoen for å få en sykdom er: / Målet på risikoen for å få ein sjukdom er: / The measure of the risk of acquiring a disease is:
+
+A:	Insidens raten / The incidence rate
+
+
+Q:	Kreftceller har evnen til å indusere angiogenese. Hva er det? / Kreftceller har evna til å indusere angiogenese. Kva er det? / Cancer cells have the ability to induce angiogenesis. What is that?
+
+A:	Evnen til å danne nye blodårer til svulsten. / Evna til å danne nye blodårer til svulsten. / The ability to create new blood vessels to the tumour
+
+
+Q:	Bildet viser et ultralydbilde av et hjerte der en enkelt ultralydstråle er brukt til å ta opp ekko som skrives ut langs en tidsakse, slik at vi får et diagram av bevegelsen til strukturer i hjertet. Hva kalles denne ultralydmodaliteten? / Bildet viser eit 2- dimensjonalt ultralydbilde av eit hjerte der ein enkelt ultralydstråle er brukt til å ta opp ekko som skrives ut langs en tidsakse, slik at vi får eit diagram av bevegelsen til strukturer i hjertet. Kva blir denne ultralydmodaliteten kalla? / The picture shows a 2- dimensional ultrasound picture of a heart where a single ultrasound beam is used to record an echo that is printed along a time axis, giving a diagrom of the motion of structures in the heart. What is this ultrasound modality called?
+
+A:	M-mode
+
