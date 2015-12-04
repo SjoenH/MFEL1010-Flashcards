@@ -1,9 +1,3 @@
-//To generate new cards:
-a=//replace this text with json content
-//and run with node.
-
-//node fs is required.
-// install with: npm install node-fs
 
 var fs = require('fs');
 var stream = fs.createWriteStream("flashcards.txt");
@@ -18,16 +12,16 @@ stream.once('open', function(fd) {
         ans = currentObject.correct;
         answer = currentObject.answers[ans];
         //Writing to file
-        stream.write("\nQ:\t" + question + "\n");
+        stream.write(question+"\t");
         if (answer){
-          stream.write("\nA:\t" + answer   + "\n\n");
+          stream.write(answer + "\n\n");
         }else {
-          stream.write("\nMultiple answers:\n");
           for (var elem in ans) {
             if (ans.hasOwnProperty(elem)) {
-              stream.write("\t- " + currentObject.answers[elem]+"\n");
+              stream.write(","+ currentObject.answers[elem]);
             }
           }
+          stream.write("\n\n");
         };
       };
     };
